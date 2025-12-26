@@ -218,7 +218,7 @@ packages:
       path: "../google_mlkit_entity_extraction"
       relative: true
     source: path
-    version: "0.15.1"
+    version: "0.15.2"
   google_mlkit_face_detection:
     dependency: "direct main"
     description:
